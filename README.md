@@ -1,2 +1,2 @@
 # HarvardX
-Movie Lens Project for Harvard University Data Science Program
+MovieLens Project for Harvard University Data Science Program
